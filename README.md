@@ -68,6 +68,6 @@ ________________________________________________________________
 
 #Then，the classic hill-climbing strategy is used to search for new solutions.
 ```
-Problem 1 best fit : 1065
+Problem 1 best fit : 1065 \n
 Problem 2 best fit : 35406
 Problem 3 best fit : 619154
