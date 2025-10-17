@@ -70,7 +70,10 @@ ________________________________________________________________
 ```
 Problem 1 best fit : 1065  
 Problem 2 best fit : 35406  
+
+#The result of P3 is low. In my opinion, I think it got stuck in a local optimum.
 Problem 3 best fit : 619154    
+
 
 Maybe some other algo will explore more feasible solutions,and better perform, I’ll try it later.  
 I found a solution to the ice cream progress bar and output problem on the webpage.
